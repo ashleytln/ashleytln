@@ -1,6 +1,7 @@
+# Welcome to my GitHub profile!
 - 👋 Hi, I’m @ashleytln
 - 👀 I’m interested in cybersecurity!
-- 🌱 I’m currently learning Python and its applications in machine learning, AI, and cybersecurity!
+- 🌱 I’m currently learning Python and using it in machine learning, AI, and cybersecurity applications!
 - 💞️ I’m looking to collaborate on cybersecurity-related projects!
 - 📫 How to reach me: https://www.linkedin.com/in/ashleytlnguyen
 - 😄 Pronouns: She/her
