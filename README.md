@@ -16,7 +16,11 @@
   - ☕ Java
   - ➕ C/C++
   - 🐍 Python
-- Libraries & Frameworks: scikit-learn, Pandas, NumPy, matplotlib,
+- Libraries & Frameworks:
+  - 🔢 NumPy
+  - 🐼 Pandas
+  - 🥽 scikit-learn
+  - 📊 seaborn
 - Databases:
   - 🛢️ SQL (basic)
 - Development Tools:
